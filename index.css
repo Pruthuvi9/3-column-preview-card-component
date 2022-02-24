@@ -68,7 +68,7 @@ img {
   line-height: 25px;
 }
 
-.btn-style:active {
+.btn-style:hover {
   cursor: pointer;
   background-color: transparent;
   color: hsl(0, 0%, 95%);
@@ -86,15 +86,15 @@ img {
   color: hsl(179, 100%, 13%);
 }
 
-#sedan-button:active {
+#sedan-button:hover {
   color: hsl(0, 0%, 95%);
 }
 
-#suv-button:active {
+#suv-button:hover {
   color: hsl(0, 0%, 95%);
 }
 
-#luxury-button:active {
+#luxury-button:hover {
   color: hsl(0, 0%, 95%);
 }
 
